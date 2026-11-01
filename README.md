@@ -1,4 +1,6 @@
-# 买量脚本编导 MCP（ua-script）
+<p align="center"><img src="assets/logo.jpg" alt="logo" width="160"></p>
+
+<h1 align="center">买量脚本编导 MCP（ua-script）</h1>
 
 给 AI 用的国内游戏买量视频脚本工具。接入之后，你的 AI（Claude Code、Codex、Cursor 等）就能：
 
